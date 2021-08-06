@@ -1,4 +1,4 @@
-#garden-stack
+#garden_stack
 #output : 
 6 
 10
